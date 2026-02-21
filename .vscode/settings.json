@@ -1,0 +1,4 @@
+{
+    "python-envs.pythonProjects": [],
+    "python.autoComplete.extraPaths":["../venv/lib/python3.10/site-packages"]
+}
